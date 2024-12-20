@@ -1,0 +1,176 @@
+.svg-map {
+  width: 23px;
+  height: 33px;
+}
+
+.svg-email {
+  fill: #574E56;
+}
+
+.svg-arrow {
+  width: 12px;
+  height: 14px;
+  fill: white;
+}
+
+.svg-email,
+.svg-be,
+.svg-inst,
+.svg-phone,
+.svg-pin .svg-arrow,
+.earth-europe {
+  width: 24px;
+  height: 24px;
+  fill: #000000;
+}
+
+.chevron-down {
+  width: 24px;
+  height: 24px;
+  fill: #daa520;
+}
+
+.arrow-drop {
+  width: 24px;
+  height: 24px;
+  fill: #daa520;
+}
+
+.earth {
+  width: 24px;
+  height: 24px;
+  fill: #07fff7;
+}
+
+.earth-europe {
+  width: 24px;
+  height: 24px;
+  fill: #07fff7;
+}
+
+.instagram {
+  width: 24px;
+  height: 24px;
+  fill: #07fff7;
+}
+
+.facebook {
+  width: 24px;
+  height: 24px;
+  fill: #07fff7;
+}
+
+.twitte {
+  width: 24px;
+  height: 24px;
+  fill: #07fff7;
+}
+
+.svg-email {
+  width: 24px;
+  height: 24px;
+  fill: #07fff7;
+}
+
+.svg-youtube {
+  width: 24px;
+  height: 24px;
+  fill: red;
+}
+
+.nav-logo {
+  width: 34px;
+  height: 34px;
+  fill: rgb(115, 97, 6);
+}
+
+.arrow-rigth-brack {
+  width: 34px;
+  height: 34px;
+  fill: rgb(115, 97, 6);
+}
+
+.user {
+  width: 34px;
+  height: 34px;
+  fill: rgb(115, 97, 6);
+}
+
+.coins {
+  width: 34px;
+  height: 34px;
+  fill: rgb(115, 97, 6);
+}
+
+.cube {
+  width: 34px;
+  height: 34px;
+  fill: rgb(115, 97, 6);
+}
+
+.hands-clapping {
+  width: 34px;
+  height: 34px;
+  fill: rgb(115, 97, 6);
+}
+
+.svg-beh {
+  width: 34px;
+  height: 34px;
+  fill: rgb(115, 97, 6);
+}
+
+.search {
+  width: 24px;
+  height: 24px;
+  fill: rgb(115, 97, 6);
+}
+
+.bell {
+  width: 24px;
+  height: 24px;
+  fill: rgb(115, 97, 6);
+}
+
+.avatar {
+  width: 48px;
+  height: 52px;
+  fill: rgb(130, 20, 3);
+}
+
+.settings {
+  display: block;
+  width: 34px;
+  height: 31px;
+  fill: rgb(115, 97, 6);
+}
+
+.bitcoin {
+  width: 51px;
+  height: 51px;
+  fill: rgb(231, 193, 8);
+}
+
+.star {
+  width: 24px;
+  height: 24px;
+  fill: rgb(231, 193, 8);
+}
+
+.search-why {
+  width: 16px;
+  height: 16px;
+  fill: #1aa090;
+}
+
+.price-why {
+  width: 12px;
+  height: 19px;
+  fill: #1aa090;
+}
+
+.timer-why {
+  width: 19px;
+  height: 22px;
+  fill: #1aa090;
+}
